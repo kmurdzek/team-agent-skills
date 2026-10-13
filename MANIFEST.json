@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "f0951319d39aa09400d2afaff12ca2465c7f3da6",
+  "generatedAt": "2026-10-14T15:56:14.124Z",
+  "configured": true,
+  "skills": [
+    "git-formatter-branch",
+    "git-formatter-pinned",
+    "markdown-export",
+    "model-artifact-review",
+    "project-brief",
+    "project-brief-share",
+    "publishing-standards",
+    "release-notes",
+    "service-diagnostics",
+    "workspace-export"
+  ],
+  "files": [
+    {
+      "path": "skills/git-formatter-branch/SKILL.md",
+      "bytes": 415,
+      "sha256": "b4c8e8627712bbb54d9591e8943e08f82915df95d31f356082efaf5e257513a5"
+    },
+    {
+      "path": "skills/git-formatter-pinned/SKILL.md",
+      "bytes": 447,
+      "sha256": "8f2dc2b63fc5183af3f8370467dfc24573b7ca5770ab6f926a1202c41aff60a2"
+    },
+    {
+      "path": "skills/markdown-export/SKILL.md",
+      "bytes": 437,
+      "sha256": "2a945ec58a0c9a22a3593e730fa155b7525f6de2bdae48d203e43f95637344ec"
+    },
+    {
+      "path": "skills/model-artifact-review/scripts/fetch_artifact.py",
+      "bytes": 844,
+      "sha256": "31758a23d335c99674b13de02661f48b084c5853b33b22322278e239a62f2b3a"
+    },
+    {
+      "path": "skills/model-artifact-review/SKILL.md",
+      "bytes": 550,
+      "sha256": "40bba58a5b966dc199195a77e31f5ace436f0449a7c31ad315b58e3fd128c5f9"
+    },
+    {
+      "path": "skills/project-brief-share/scripts/publish.js",
+      "bytes": 1410,
+      "sha256": "7efaba1e98641105e6a812195f3fc255e840e7b3a9b0a71f349a7b87c81e08d8"
+    },
+    {
+      "path": "skills/project-brief-share/SKILL.md",
+      "bytes": 644,
+      "sha256": "a395bf46c135ddf9eefc9fca7e06134d5d6a2d90bca88938044e3e34b63dc418"
+    },
+    {
+      "path": "skills/project-brief/SKILL.md",
+      "bytes": 552,
+      "sha256": "4d5106f1d7f37a660b9cffa2878d602ac9fe6dcecf213f7ab07a2ec539bbcf48"
+    },
+    {
+      "path": "skills/publishing-standards/SKILL.md",
+      "bytes": 450,
+      "sha256": "3252353ed487b6322e0fa9b08f57ecd1fc577223e8182bf5e8092e553f7952a6"
+    },
+    {
+      "path": "skills/release-notes/references/style-guide.md",
+      "bytes": 318,
+      "sha256": "16660b2920167eeb569a5594d01c0e710bb1a653993161358507e34bc0206a42"
+    },
+    {
+      "path": "skills/release-notes/SKILL.md",
+      "bytes": 386,
+      "sha256": "e6fb1245cafebc0d65adfe57124d947d283380b192f33eed9782fd3cec2b5f33"
+    },
+    {
+      "path": "skills/service-diagnostics/SKILL.md",
+      "bytes": 508,
+      "sha256": "f8757c7f2e892c6cff1cc63d07a67594a4ab295a86f7639fab5c38f07efbdfa8"
+    },
+    {
+      "path": "skills/workspace-export/SKILL.md",
+      "bytes": 373,
+      "sha256": "85285f67134a9d5258b22fa03bf4f38e9ad2573947b8193fb498014c67791098"
+    }
+  ],
+  "placeholders": []
+}
