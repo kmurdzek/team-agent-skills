@@ -1,13 +1,15 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "012f4e42be02627e3f4604b3c704109953d7ca65",
-  "generatedAt": "2026-10-14T19:23:42.236Z",
+  "sourceCommit": "fa8c03002b3965f9db8190bc5041e26f9fa28799",
+  "generatedAt": "2026-10-14T22:05:16.792Z",
   "configured": true,
   "skills": [
     "git-formatter-branch",
     "git-formatter-pinned",
     "markdown-export",
     "model-artifact-review",
+    "model-config-remote",
+    "model-config-standard",
     "project-brief",
     "project-brief-share",
     "publishing-standards",
@@ -40,6 +42,36 @@
       "path": "skills/model-artifact-review/SKILL.md",
       "bytes": 550,
       "sha256": "40bba58a5b966dc199195a77e31f5ace436f0449a7c31ad315b58e3fd128c5f9"
+    },
+    {
+      "path": "skills/model-config-remote/scripts/load_config.py",
+      "bytes": 344,
+      "sha256": "3687d961029f35b5a19003a764b1956da7823ea39469ac71abfc1ca2411b89c4"
+    },
+    {
+      "path": "skills/model-config-remote/scripts/requirements.txt",
+      "bytes": 47,
+      "sha256": "065c50f78bbc6366f1b71095ed4f5a1550e084b0f0d367d64421ba3243701852"
+    },
+    {
+      "path": "skills/model-config-remote/SKILL.md",
+      "bytes": 448,
+      "sha256": "d6019e87d2506becbeaffa341bc6effd362d3840edb2c25085782af547442022"
+    },
+    {
+      "path": "skills/model-config-standard/scripts/load_config.py",
+      "bytes": 345,
+      "sha256": "593fb3168f9130eafeff53677103d4aa2e450d470dc22bbb4900ff05e0dbe55a"
+    },
+    {
+      "path": "skills/model-config-standard/scripts/requirements.txt",
+      "bytes": 47,
+      "sha256": "065c50f78bbc6366f1b71095ed4f5a1550e084b0f0d367d64421ba3243701852"
+    },
+    {
+      "path": "skills/model-config-standard/SKILL.md",
+      "bytes": 454,
+      "sha256": "73c48ef8a623c0a74a0b6bd732dd2e019c737124d68f3fa6a1da44125b707172"
     },
     {
       "path": "skills/project-brief-share/scripts/publish.js",
