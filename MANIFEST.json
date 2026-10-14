@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f0951319d39aa09400d2afaff12ca2465c7f3da6",
-  "generatedAt": "2026-10-14T15:56:14.124Z",
+  "sourceCommit": "5967bcd3a5482bc39e98f0d0c5e734e8996b98d3",
+  "generatedAt": "2026-10-14T18:41:59.399Z",
   "configured": true,
   "skills": [
     "git-formatter-branch",
@@ -28,8 +28,8 @@
     },
     {
       "path": "skills/markdown-export/SKILL.md",
-      "bytes": 437,
-      "sha256": "2a945ec58a0c9a22a3593e730fa155b7525f6de2bdae48d203e43f95637344ec"
+      "bytes": 546,
+      "sha256": "b0837816baffed49783a58c68d1b6e6281c08920b92d7ec72bff2357dc97986a"
     },
     {
       "path": "skills/model-artifact-review/scripts/fetch_artifact.py",
@@ -78,8 +78,8 @@
     },
     {
       "path": "skills/workspace-export/SKILL.md",
-      "bytes": 373,
-      "sha256": "85285f67134a9d5258b22fa03bf4f38e9ad2573947b8193fb498014c67791098"
+      "bytes": 513,
+      "sha256": "3f876ef3fca66fde661bf80b62f2a1af8dd1e2e50fbe43c8cf2bbffe3c7fbfe6"
     }
   ],
   "placeholders": []

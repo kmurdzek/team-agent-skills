@@ -1,4 +1,5 @@
 node_modules/
+.skill-deps/
 .artifacts/
 output.txt
 normalized.txt
