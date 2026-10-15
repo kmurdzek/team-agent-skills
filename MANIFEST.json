@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "fa8c03002b3965f9db8190bc5041e26f9fa28799",
-  "generatedAt": "2026-10-14T22:05:16.792Z",
+  "sourceCommit": "23a3e024dab13309354c1c3db01c86b58f9e5ef6",
+  "generatedAt": "2026-10-15T20:43:05.605Z",
   "configured": true,
   "skills": [
     "git-formatter-branch",
@@ -90,8 +90,8 @@
     },
     {
       "path": "skills/publishing-standards/SKILL.md",
-      "bytes": 450,
-      "sha256": "3252353ed487b6322e0fa9b08f57ecd1fc577223e8182bf5e8092e553f7952a6"
+      "bytes": 755,
+      "sha256": "4239fb619d7edfea7ea908e10ca762f36676954a68beb6d5dc0e63f133096888"
     },
     {
       "path": "skills/release-notes/references/style-guide.md",
