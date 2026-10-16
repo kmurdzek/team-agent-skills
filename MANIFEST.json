@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "bbc7490d1e482f525dd757881895d77d82183bf1",
-  "generatedAt": "2026-10-16T15:37:00.584Z",
+  "sourceCommit": "bb326c98035a5585743f08f125e60f252cd0559f",
+  "generatedAt": "2026-10-16T18:06:53.494Z",
   "configured": true,
   "skills": [
     "account-review-report",
@@ -45,7 +45,7 @@
     {
       "path": "skills/markdown-export/SKILL.md",
       "bytes": 546,
-      "sha256": "d08ac0fb01cef2eadb8449dcf09156efcf60de8bc7ba51486df078d9a339d154"
+      "sha256": "87c1dd6a8818aa68e6e2961d2d18f8cfb5e09b4fcfec826fed3d37fce401cc42"
     },
     {
       "path": "skills/model-artifact-review/scripts/fetch_artifact.py",
