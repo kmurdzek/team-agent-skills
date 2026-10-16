@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2b45652cca73987025f6255276303b8a736eac74",
-  "generatedAt": "2026-10-15T20:50:57.301Z",
+  "sourceCommit": "2ae6625aaed0e490b28dabebabd6c137f34458d1",
+  "generatedAt": "2026-10-16T14:59:36.769Z",
   "configured": true,
   "skills": [
+    "customer-table-publisher",
     "git-formatter-branch",
     "git-formatter-pinned",
     "markdown-export",
@@ -15,9 +16,15 @@
     "publishing-standards",
     "release-notes",
     "service-diagnostics",
+    "table-catalog-report",
     "workspace-export"
   ],
   "files": [
+    {
+      "path": "skills/customer-table-publisher/SKILL.md",
+      "bytes": 1080,
+      "sha256": "9d9e4bf73100e9dc89c164cfa4fd0e5a963ed3c22db9a0986e0a5471919bb81f"
+    },
     {
       "path": "skills/git-formatter-branch/SKILL.md",
       "bytes": 551,
@@ -107,6 +114,11 @@
       "path": "skills/service-diagnostics/SKILL.md",
       "bytes": 508,
       "sha256": "f8757c7f2e892c6cff1cc63d07a67594a4ab295a86f7639fab5c38f07efbdfa8"
+    },
+    {
+      "path": "skills/table-catalog-report/SKILL.md",
+      "bytes": 455,
+      "sha256": "260ae26089809b6ad25317bfccd4249abc953104c8e9a359f46df870f9bc22cd"
     },
     {
       "path": "skills/workspace-export/SKILL.md",
