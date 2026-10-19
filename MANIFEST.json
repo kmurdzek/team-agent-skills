@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "bb326c98035a5585743f08f125e60f252cd0559f",
-  "generatedAt": "2026-10-16T18:06:53.494Z",
+  "sourceCommit": "feed1b08657fe0ab77d000fdfef6da680d9631de",
+  "generatedAt": "2026-10-19T12:56:36.260Z",
   "configured": true,
   "skills": [
     "account-review-report",
@@ -9,6 +9,7 @@
     "git-formatter-branch",
     "git-formatter-pinned",
     "markdown-export",
+    "markdown-export-stable",
     "model-artifact-review",
     "model-config-remote",
     "model-config-standard",
@@ -41,6 +42,11 @@
       "path": "skills/git-formatter-pinned/SKILL.md",
       "bytes": 583,
       "sha256": "0b140660b8663a76d04f4f43c6d11376a566c681e4d64f1caf2722c5f6114e72"
+    },
+    {
+      "path": "skills/markdown-export-stable/SKILL.md",
+      "bytes": 587,
+      "sha256": "4f9e571b40031e34a6952397306b1cb9b22004316b18fdfca011223274dd93ff"
     },
     {
       "path": "skills/markdown-export/SKILL.md",
